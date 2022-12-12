@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-image: url('imagem.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#my-canvas {
+    background: #fff;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+div {
+    position: relative;
+}
